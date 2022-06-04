@@ -4,4 +4,16 @@
 *:hover, *:focus{
     transition: 0.3s ease;
 }
+.webLogoTxt{
+    display: block;
+}
+.webuilogo{
+    font-size: x-large;
+}
+.webLogoTxt{
 
+}
+.uiLogoTxt{
+    font-weight: 500;
+    color: dodgerblue;
+}

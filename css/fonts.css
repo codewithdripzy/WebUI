@@ -1,3 +1,6 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .font-small{
     font-size: small;
 }
@@ -22,7 +25,9 @@
 x-bold{
     font-weight: 1000;
 }
-xx-bol
+xx-bold{
+    font-weight: 1500;
+}
 .underline{
     text-decoration: underline;
 }
@@ -31,6 +36,30 @@ xx-bol
 }
 .italic{
     font-style: italic;
+}
+.white-font-25{
+    color: #ababab;
+}
+.white-font-50{
+    color: #d3d3d3;
+}
+.white-font-75{
+    color: #eee;
+}
+.white-font-100{
+    color: #fff;
+}
+.black-font-25{
+    color: #616161;
+}
+.black-font-50{
+    color: #454545;
+}
+.black-font-75{
+    color: #121212;
+}
+.black-font-100{
+    color: #000;
 }
 .default{
     text-decoration: none;

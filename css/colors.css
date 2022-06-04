@@ -9,3 +9,12 @@
     --black-50: #121212;
     --black-100: #000;
 }
+.red-bg{
+
+}
+.bg-dodgerblue{
+    background: dodgerblue;
+}
+.bg{
+    background: var();
+}

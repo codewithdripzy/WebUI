@@ -1,0 +1,163 @@
+nav{
+    padding: 10px;
+}
+.relative-nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+fixed-nav-top{
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.no-opacity{
+    opacity: 1;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.cursor-alias{
+    cursor: alias;
+}
+.cursor-all-scroll{
+    cursor: all-scroll;
+}
+.cursor-cell{
+    cursor: cell;
+}
+.cursor-col-resize{
+    cursor: col-resize;
+}
+.cursor-context-menu{
+    cursor: context-menu;
+}
+.cursor-copy{
+    cursor: copy;
+}
+.cursor-crosshair{
+    cursor: crosshair;
+}
+.cursor-default{
+    cursor: default;
+}
+.cursor-e-resize{
+    cursor: e-resize;
+}
+.cursor-ew-resize{
+    cursor: ew-resize;
+}
+.cursor-grab{
+    cursor: grab;
+}
+.cursor-grabbing{
+    cursor: grabbing;
+}
+.cursor-help{
+    cursor: help;
+}
+.cursor-move{
+    cursor: move;
+}
+.cursor-n-resize{
+    cursor: n-resize;
+}
+.cursor-ne-resize{
+    cursor: ne-resize;
+}
+.cursor-nesw-resize{
+    cursor: nesw-resize;
+}
+.cursor-no-drop{
+    cursor: no-drop;
+}
+.cursor-none{
+    cursor: none;
+}
+.cursor-not-allowed{
+    cursor: not-allowed;
+}
+.cursor-ns-resize{
+    cursor: ns-resize;
+}
+.cursor-nw-resize{
+    cursor: nw-resize;
+}
+.cursor-nwse-resize{
+    cursor: nwse-resize;
+}
+.cursor-progress{
+    cursor: progress;
+}
+.cursor-row-resize{
+    cursor: row-resize;
+}
+.cursor-s-resize{
+    cursor: s-resize;
+}
+.cursor-se-resize{
+    cursor: se-resize;
+}
+.cursor-sw-resize{
+    cursor: sw-resize;
+}
+.cursor-text{
+    cursor: text;
+}
+.cursor-vertical-text{
+    cursor: vertical-text;
+}
+.cursor-w-resize{
+    cursor: w-resize;
+}
+.cursor-wait{
+    cursor: wait;
+}
+.cursor-zoom-in{
+    cursor: zoom-in;
+}
+.cursor-zoom-out{
+    cursor: zoom-out;
+}
+.text-align-center{
+    text-align: center;
+}
+.text-align-left{
+    text-align: left;
+}
+.text-aligh-right{
+    text-align: right;
+}
+.text-align-inherit{
+    text-align: inherit;
+}
+.text-align-initial{
+    text-align: initial;
+}
+.text-align-justify{
+    text-align: justify;
+}
+.text-align-start{
+    text-align: start;
+}
+.text-align-end{
+    text-align: end;
+}
+.text-align-unset{
+    text-align: unset;
+}
+.justify-content-center{
+    justify-content: center;
+}
+.justify-content-left{
+    justify-content: left;
+}
+.justify-content-right{
+    justify-content: right;
+}
+.justify-content-start{
+    justify-content: start;
+}
+.justify-content-end{
+    justify-content: end;
+}
