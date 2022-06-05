@@ -1,6 +1,16 @@
 .floating-button{
     
 }
+.nav{
+    display: block;
+    padding: 10px;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+.floating-nav{
+    box-shadow: 0px 0px 3px 0.15px;
+}
 .notification{
     padding: 25px;
     border-radius: 10px;
