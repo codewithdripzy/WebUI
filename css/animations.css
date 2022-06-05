@@ -1,0 +1,16 @@
+@keyframes alert-fixed {
+    from{
+        bottom: -100%;
+    }
+    to{
+        bottom: 0%;
+    }
+}
+@keyframes alert-floating {
+    from{
+        left: -100%;
+    }
+    to{
+        left: 0%;
+    }
+}
