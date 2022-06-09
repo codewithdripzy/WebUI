@@ -6,12 +6,30 @@
 .nav{
     display: block;
     padding: 10px;
-    position: relative;
     top: 0;
     width: 100%;
 }
-.floating-nav{
-    box-shadow: 0px 0px 3px 0.15px;
+.fixed-nav{
+    position: fixed;
+}
+.absolute-nav{
+    position: absolute;
+}
+.realtive-nav{
+    position: relative;
+    
+}
+.lm-bordered-nav{
+    border: 1px solid #eee;
+}
+.dm-bordered-nav{
+    border: 1px solid #454545;
+}
+.lm-floating-nav{
+    box-shadow: 0px 0px 5px 0.2px #eee;
+}
+.dm-floating-nav{
+    box-shadow: 0px 0px 3px 0.15px 3;
 }
 .nav-items{
     text-decoration: none;
@@ -82,4 +100,25 @@
 .link{
     text-decoration: underline;
     color: dodgerblue;
+}
+.h1{
+    font-size: xx-large;
+}
+.h2{
+    font-size: x-large;
+}
+.h3{
+    font-size: large;
+}
+.h4{
+    font-size: medium;
+}
+.h5{
+    font-size: small;
+}
+.h6{
+    font-size: small;
+}
+.h7{
+    font-size: xx-small;
 }

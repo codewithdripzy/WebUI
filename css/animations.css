@@ -14,3 +14,72 @@
         left: 0%;
     }
 }
+@keyframes slide-in {
+    from{
+
+    }
+    to{
+
+    }
+}
+@keyframes slide-in-out {
+    from{
+        left: -100%;
+    }
+    50%{
+        left: 0%;
+    }
+    100%{
+        left: 100%;
+    }
+    /* #endregion */
+}
+@keyframes slide-in-out-reverse {
+    from{
+
+    }
+    to{
+
+    }
+}
+@keyframes slide-up{
+    from{
+        bottom: -100%;
+    }
+    to{
+        bottom: 0%;
+    }
+}
+.slide-in-out{
+    animation: slide-in-out 1s ease-out 1;
+}
+.delay-10{
+    animation-delay: 0.5s;
+}
+.delay-20{
+    animation-delay: 1s;
+}
+.delay-30{
+    animation-delay: 1.5s;
+}
+.delay-40{
+    animation-delay: 2s;
+}
+.delay-50{
+    animation-delay: 2.5s;
+}
+.delay-60{
+    animation-delay: 3s;
+}
+.delay-70{
+    animation-delay: 3.5s;
+}
+.delay-80{
+    animation-delay: 4s;
+}
+.delay-90{
+    animation-delay: 4.5s;
+}
+.delay-100{
+    animation-delay: 5s;
+}

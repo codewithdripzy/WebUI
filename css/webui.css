@@ -1,5 +1,6 @@
 *{
     transition: 0.3s ease;
+    scroll-behavior: smooth 1s;
 }
 *:hover, *:focus{
     transition: 0.3s ease;
@@ -16,4 +17,16 @@
 .uiLogoTxt{
     font-weight: 500;
     color: dodgerblue;
+}
+*::-webkit-scrollbar{
+    width: 7px;
+    border-radius: 20px;
+}
+*::-webkit-scrollbar-thumb{
+    background-color: #ababab;
+    border-radius: 20px;
+}
+*::-webkit-scrollbar-track{
+    background-color: #ffffff00;
+    visibility: hidden;
 }

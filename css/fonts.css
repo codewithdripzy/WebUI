@@ -61,7 +61,7 @@ xx-bold{
 .black-font-100{
     color: #000;
 }
-.default{
+.default, .no-decoration, .text-decoration-none{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
 }

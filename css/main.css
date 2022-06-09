@@ -10,3 +10,63 @@ body{
 .no-select{
     user-select: none;
 }
+.no-scroll-x, .overflow-x-hidden{
+    overflow-x: hidden;
+}
+.no-scroll-y, .overflow-y-hidden{
+    overflow-y: hidden;
+}
+.scroll-x, .overflow-x-scroll{
+    overflow-x: scroll;
+}
+.scroll-y, .overflow-y-scroll{
+    overflow-y: scroll;
+}
+.auto-scroll-x, .overflow-x-auto{
+    overflow-x: auto;
+}
+.auto-scroll-y, .overflow-y-auto{
+    overflow-y: auto;
+}
+.visiblle-scroll-x, .overflow-x-visible{
+    overflow-x: visible;
+}
+.visiblle-scroll-y, .overflow-y-visible{
+    overflow-y: visible;
+}
+.scroll, .overflow-scroll{
+    overflow: scroll;
+}
+.auto-scroll, .overflow-auto{
+    overflow: auto;
+}
+.no-scroll, .overflow-hidden{
+    overflow: hidden;
+}
+.inherit-scroll-x, .overflow-x-inherit{
+    overflow-x: inherit;
+}
+.inherit-scroll-y, .overflow-y-inherit{
+    overflow-y: inherit;
+}
+.inherit-scroll, .overflow-inherit{
+    overflow: inherit;
+}
+.initial-scroll-x, .overflow-x-initial{
+    overflow-x: initial;
+}
+.initial-scroll-y, .overflow-y-initial{
+    overflow-y: initial;
+}
+.initial-scroll, .overflow-initial{
+    overflow: initial;
+}
+.unset-scroll-x, .overflow-x-unset{
+    overflow-x: unset;
+}
+.unset-scroll-y, .overflow-y-unset{
+    overflow-y: unset;
+}
+.unset-scroll, .overflow-unset{
+    overflow: unset;
+}

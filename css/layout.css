@@ -923,7 +923,9 @@
 }
 
 /* top */
-
+.top-0{
+    top: 0;
+}
 .top-1px{
     top: 1px;
 }
@@ -1527,7 +1529,9 @@
 }
 
 /* bottom  */
-
+.bottom-0{
+    bottom: 0;
+}
 .bottom-1px{
     bottom: 1px;
 }
@@ -2132,8 +2136,11 @@
     bottom: 100%;
 }
 
-
 /* right */
+
+.right-0{
+    right: 0;
+}
 
 .right-1px{
     right: 1px;
@@ -2739,608 +2746,611 @@
     right: 100%;
 }
 
-/* left */
 
+/* #left */
+.left-0{
+    left: 0;
+}
 .left-1px{
-    right: 1px;
+    left: 1px;
 }
 .left-2px{
-    right: 2px;
+    left: 2px;
 }
 .left-3px{
-    right: 3px;
+    left: 3px;
 }
 .left-4px{
-    right: 4px;
+    left: 4px;
 }
 .left-5px{
-    right: 5px;
+    left: 5px;
 }
 .left-6px{
-    right: 6px;
+    left: 6px;
 }
 .left-7px{
-    right: 7px;
+    left: 7px;
 }
 .left-8px{
-    right: 8px;
+    left: 8px;
 }
 .left-9px{
-    right: 9px;
+    left: 9px;
 }
 .left-10px{
-    right: 10px;
+    left: 10px;
 }
 .left-11px{
-    right: 11px;
+    left: 11px;
 }
 .left-12px{
-    right: 12px;
+    left: 12px;
 }
 .left-13px{
-    right: 13px;
+    left: 13px;
 }
 .left-14px{
-    right: 14px;
+    left: 14px;
 }
 .left-15px{
-    right: 15px;
+    left: 15px;
 }
 .left-16px{
-    right: 16px;
+    left: 16px;
 }
 .left-17px{
-    right: 17px;
+    left: 17px;
 }
 .left-18px{
-    right: 18px;
+    left: 18px;
 }
 .left-19px{
-    right: 19px;
+    left: 19px;
 }
 .left-20px{
-    right: 20px;
+    left: 20px;
 }
 .left-21px{
-    right: 21px;
+    left: 21px;
 }
 .left-22px{
-    right: 22px;
+    left: 22px;
 }
 .left-23px{
-    right: 23px;
+    left: 23px;
 }
 .left-24px{
-    right: 24px;
+    left: 24px;
 }
 .left-25px{
-    right: 25px;
+    left: 25px;
 }
 .left-26px{
-    right: 26px;
+    left: 26px;
 }
 .left-27px{
-    right: 27px;
+    left: 27px;
 }
 .left-28px{
-    right: 28px;
+    left: 28px;
 }
 .left-29px{
-    right: 29px;
+    left: 29px;
 }
 .left-30px{
-    right: 30px;
+    left: 30px;
 }
 .left-31px{
-    right: 31px;
+    left: 31px;
 }
 .left-32px{
-    right: 32px;
+    left: 32px;
 }
 .left-33px{
-    right: 33px;
+    left: 33px;
 }
 .left-34px{
-    right: 34px;
+    left: 34px;
 }
 .left-35px{
-    right: 35px;
+    left: 35px;
 }
 .left-36px{
-    right: 36px;
+    left: 36px;
 }
 .left-37px{
-    right: 37px;
+    left: 37px;
 }
 .left-38px{
-    right: 38px;
+    left: 38px;
 }
 .left-39px{
-    right: 39px;
+    left: 39px;
 }
 .left-40px{
-    right: 40px;
+    left: 40px;
 }
 .left-41px{
-    right: 41px;
+    left: 41px;
 }
 .left-42px{
-    right: 42px;
+    left: 42px;
 }
 .left-43px{
-    right: 43px;
+    left: 43px;
 }
 .left-44px{
-    right: 44px;
+    left: 44px;
 }
 .left-45px{
-    right: 45px;
+    left: 45px;
 }
 .left-46px{
-    right: 46px;
+    left: 46px;
 }
 .left-47px{
-    right: 47px;
+    left: 47px;
 }
 .left-48px{
-    right: 48px;
+    left: 48px;
 }
 .left-49px{
-    right: 49px;
+    left: 49px;
 }
 .left-50px{
-    right: 50px;
+    left: 50px;
 }
 .left-51px{
-    right: 51px;
+    left: 51px;
 }
 .left-52px{
-    right: 52px;
+    left: 52px;
 }
 .left-53px{
-    right: 53px;
+    left: 53px;
 }
 .left-54px{
-    right: 54px;
+    left: 54px;
 }
 .left-55px{
-    right: 55px;
+    left: 55px;
 }
 .left-56px{
-    right: 56px;
+    left: 56px;
 }
 .left-57px{
-    right: 57px;
+    left: 57px;
 }
 .left-58px{
-    right: 58px;
+    left: 58px;
 }
 .left-59px{
-    right: 59px;
+    left: 59px;
 }
 .left-60px{
-    right: 60px;
+    left: 60px;
 }
 .left-61px{
-    right: 61px;
+    left: 61px;
 }
 .left-62px{
-    right: 62px;
+    left: 62px;
 }
 .left-63px{
-    right: 63px;
+    left: 63px;
 }
 .left-64px{
-    right: 64px;
+    left: 64px;
 }
 .left-65px{
-    right: 65px;
+    left: 65px;
 }
 .left-66px{
-    right: 66px;
+    left: 66px;
 }
 .left-67px{
-    right: 67px;
+    left: 67px;
 }
 .left-68px{
-    right: 68px;
+    left: 68px;
 }
 .left-69px{
-    right: 69px;
+    left: 69px;
 }
 .left-70px{
-    right: 70px;
+    left: 70px;
 }
 .left-71px{
-    right: 71px;
+    left: 71px;
 }
 .left-72px{
-    right: 72px;
+    left: 72px;
 }
 .left-73px{
-    right: 73px;
+    left: 73px;
 }
 .left-74px{
-    right: 74px;
+    left: 74px;
 }
 .left-75px{
-    right: 75px;
+    left: 75px;
 }
 .left-76px{
-    right: 76px;
+    left: 76px;
 }
 .left-77px{
-    right: 77px;
+    left: 77px;
 }
 .left-78px{
-    right: 78px;
+    left: 78px;
 }
 .left-79px{
-    right: 79px;
+    left: 79px;
 }
 .left-80px{
-    right: 80px;
+    left: 80px;
 }
 .left-81px{
-    right: 81px;
+    left: 81px;
 }
 .left-82px{
-    right: 82px;
+    left: 82px;
 }
 .left-83px{
-    right: 83px;
+    left: 83px;
 }
 .left-84px{
-    right: 84px;
+    left: 84px;
 }
 .left-85px{
-    right: 85px;
+    left: 85px;
 }
 .left-86px{
-    right: 86px;
+    left: 86px;
 }
 .left-87px{
-    right: 87px;
+    left: 87px;
 }
 .left-88px{
-    right: 88px;
+    left: 88px;
 }
 .left-89px{
-    right: 89px;
+    left: 89px;
 }
 .left-90px{
-    right: 90px;
+    left: 90px;
 }
 .left-91px{
-    right: 91px;
+    left: 91px;
 }
 .left-92px{
-    right: 92px;
+    left: 92px;
 }
 .left-93px{
-    right: 93px;
+    left: 93px;
 }
 .left-94px{
-    right: 94px;
+    left: 94px;
 }
 .left-95px{
-    right: 95px;
+    left: 95px;
 }
 .left-96px{
-    right: 96px;
+    left: 96px;
 }
 .left-97px{
-    right: 97px;
+    left: 97px;
 }
 .left-98px{
-    right: 98px;
+    left: 98px;
 }
 .left-99px{
-    right: 99px;
+    left: 99px;
 }
 .left-100px{
-    right: 100px;
+    left: 100px;
 }
 
 /* % */
 
 .left-1{
-    right: 1%;
+    left: 1%;
 }
 .left-2{
-    right: 2%;
+    left: 2%;
 }
 .left-3{
-    right: 3%;
+    left: 3%;
 }
 .left-4{
-    right: 4%;
+    left: 4%;
 }
 .left-5{
-    right: 5%;
+    left: 5%;
 }
 .left-6{
-    right: 6%;
+    left: 6%;
 }
 .left-7{
-    right: 7%;
+    left: 7%;
 }
 .left-8{
-    right: 8%;
+    left: 8%;
 }
 .left-9{
-    right: 9%;
+    left: 9%;
 }
 .left-10{
-    right: 10%;
+    left: 10%;
 }
 .left-11{
-    right: 11%;
+    left: 11%;
 }
 .left-12{
-    right: 12%;
+    left: 12%;
 }
 .left-13{
-    right: 13%;
+    left: 13%;
 }
 .left-14{
-    right: 14%;
+    left: 14%;
 }
 .left-15{
-    right: 15%;
+    left: 15%;
 }
 .left-16{
-    right: 16%;
+    left: 16%;
 }
 .left-17{
-    right: 17%;
+    left: 17%;
 }
 .left-18{
-    right: 18%;
+    left: 18%;
 }
 .left-19{
-    right: 19%;
+    left: 19%;
 }
 .left-20{
-    right: 20%;
+    left: 20%;
 }
 .left-21{
-    right: 21%;
+    left: 21%;
 }
 .left-22{
-    right: 22%;
+    left: 22%;
 }
 .left-23{
-    right: 23%;
+    left: 23%;
 }
 .left-24{
-    right: 24%;
+    left: 24%;
 }
 .left-25{
-    right: 25%;
+    left: 25%;
 }
 .left-26{
-    right: 26%;
+    left: 26%;
 }
 .left-27{
-    right: 27%;
+    left: 27%;
 }
 .left-28{
-    right: 28%;
+    left: 28%;
 }
 .left-29{
-    right: 29%;
+    left: 29%;
 }
 .left-30{
-    right: 30%;
+    left: 30%;
 }
 .left-31{
-    right: 31%;
+    left: 31%;
 }
 .left-32{
-    right: 32%;
+    left: 32%;
 }
 .left-33{
-    right: 33%;
+    left: 33%;
 }
 .left-34{
-    right: 34%;
+    left: 34%;
 }
 .left-35{
-    right: 35%;
+    left: 35%;
 }
 .left-36{
-    right: 36%;
+    left: 36%;
 }
 .left-37{
-    right: 37%;
+    left: 37%;
 }
 .left-38{
-    right: 38%;
+    left: 38%;
 }
 .left-39{
-    right: 39%;
+    left: 39%;
 }
 .left-40{
-    right: 40%;
+    left: 40%;
 }
 .left-41{
-    right: 41%;
+    left: 41%;
 }
 .left-42{
-    right: 42%;
+    left: 42%;
 }
 .left-43{
-    right: 43%;
+    left: 43%;
 }
 .left-44{
-    right: 44%;
+    left: 44%;
 }
 .left-45{
-    right: 45%;
+    left: 45%;
 }
 .left-46{
-    right: 46%;
+    left: 46%;
 }
 .left-47{
-    right: 47%;
+    left: 47%;
 }
 .left-48{
-    right: 48%;
+    left: 48%;
 }
 .left-49{
-    right: 49%;
+    left: 49%;
 }
 .left-50{
-    right: 50%;
+    left: 50%;
 }
 .left-51{
-    right: 51%;
+    left: 51%;
 }
 .left-52{
-    right: 52%;
+    left: 52%;
 }
 .left-53{
-    right: 53%;
+    left: 53%;
 }
 .left-54{
-    right: 54%;
+    left: 54%;
 }
 .left-55{
-    right: 55%;
+    left: 55%;
 }
 .left-56{
-    right: 56%;
+    left: 56%;
 }
 .left-57{
-    right: 57%;
+    left: 57%;
 }
 .left-58{
-    right: 58%;
+    left: 58%;
 }
 .left-59{
-    right: 59%;
+    left: 59%;
 }
 .left-60{
-    right: 60%;
+    left: 60%;
 }
 .left-61{
-    right: 61%;
+    left: 61%;
 }
 .left-62{
-    right: 62%;
+    left: 62%;
 }
 .left-63{
-    right: 63%;
+    left: 63%;
 }
 .left-64{
-    right: 64%;
+    left: 64%;
 }
 .left-65{
-    right: 65%;
+    left: 65%;
 }
 .left-66{
-    right: 66%;
+    left: 66%;
 }
 .left-67{
-    right: 67%;
+    left: 67%;
 }
 .left-68{
-    right: 68%;
+    left: 68%;
 }
 .left-69{
-    right: 69%;
+    left: 69%;
 }
 .left-70{
-    right: 70%;
+    left: 70%;
 }
 .left-71{
-    right: 71%;
+    left: 71%;
 }
 .left-72{
-    right: 72%;
+    left: 72%;
 }
 .left-73{
-    right: 73%;
+    left: 73%;
 }
 .left-74{
-    right: 74%;
+    left: 74%;
 }
 .left-75{
-    right: 75%;
+    left: 75%;
 }
 .left-76{
-    right: 76%;
+    left: 76%;
 }
 .left-77{
-    right: 77%;
+    left: 77%;
 }
 .left-78{
-    right: 78%;
+    left: 78%;
 }
 .left-79{
-    right: 79%;
+    left: 79%;
 }
 .left-80{
-    right: 80%;
+    left: 80%;
 }
 .left-81{
-    right: 81%;
+    left: 81%;
 }
 .left-82{
-    right: 82%;
+    left: 82%;
 }
 .left-83{
-    right: 83%;
+    left: 83%;
 }
 .left-84{
-    right: 84%;
+    left: 84%;
 }
 .left-85{
-    right: 85%;
+    left: 85%;
 }
 .left-86{
-    right: 86%;
+    left: 86%;
 }
 .left-87{
-    right: 87%;
+    left: 87%;
 }
 .left-88{
-    right: 88%;
+    left: 88%;
 }
 .left-89{
-    right: 89%;
+    left: 89%;
 }
 .left-90{
-    right: 90%;
+    left: 90%;
 }
 .left-91{
-    right: 91%;
+    left: 91%;
 }
 .left-92{
-    right: 92%;
+    left: 92%;
 }
 .left-93{
-    right: 93%;
+    left: 93%;
 }
 .left-94{
-    right: 94%;
+    left: 94%;
 }
 .left-95{
-    right: 95%;
+    left: 95%;
 }
 .left-96{
-    right: 96%;
+    left: 96%;
 }
 .left-97{
-    right: 97%;
+    left: 97%;
 }
 .left-98{
-    right: 98%;
+    left: 98%;
 }
 .left-99{
-    right: 99%;
+    left: 99%;
 }
 .left-100{
-    right: 100%;
+    left: 100%;
 }
