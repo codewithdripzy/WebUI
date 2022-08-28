@@ -11,16 +11,16 @@
     width: 100%;
     text-align: center;
 }
-.alert-danger{
+.alert-danger, .indicator-due, .indicator-danger{
     background-color: tomato;
 }
-.alert-default, .alert-info, .alert-prompt{
+.alert-default, .alert-info, .alert-prompt, .indicator-info, .indicator-normal{
     background-color: dodgerblue;
 }
-.alert-success{
+.alert-success, .indicator-safe, .indicator-active{
     background-color: yellowgreen;
 }
-.alert-caution{
+.alert-caution, .indicator-caution{
     background-color: yellow;
 }
 .floating-alert{
@@ -35,4 +35,11 @@
 }
 .light-bg-alert, .light-mode-alert{
     color: inherit;
+}
+.indicator{
+    display: inline-block;
+    padding: 5px;
+    border-radius: 100px;
+    width: 1px;
+    height: 1px;
 }
