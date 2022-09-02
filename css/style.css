@@ -143,19 +143,19 @@ fixed-nav-top{
 .text-align-unset{
     text-align: unset;
 }
-.justify-content-center{
+.justify-content-center, .justify-center{
     justify-content: center;
 }
-.justify-content-left{
+.justify-content-left, .justify-left{
     justify-content: left;
 }
-.justify-content-right{
+.justify-content-right, .justify-right{
     justify-content: right;
 }
-.justify-content-start{
+.justify-content-start, .justify-start{
     justify-content: start;
 }
-.justify-content-end{
+.justify-content-end, .justify-end{
     justify-content: end;
 }
 .hide{
