@@ -17,7 +17,7 @@ textarea{
     border: 1px solid #eee;
     border-radius: 5px;
     outline: none !important;
-    display: block;
+    /* display: block; */
     padding: 10px;
 }
 input[type=date]:focus,

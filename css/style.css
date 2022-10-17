@@ -122,7 +122,7 @@ fixed-nav-top{
 .text-align-left{
     text-align: left;
 }
-.text-aligh-right{
+.text-align-right{
     text-align: right;
 }
 .text-align-inherit{
@@ -158,6 +158,44 @@ fixed-nav-top{
 .justify-content-end, .justify-end{
     justify-content: end;
 }
+
+/* align-content */
+
+.align-content-center{
+    align-content: center;
+}
+.align-content-left{
+    align-content: left;
+}
+.align-content-right{
+    align-content: right;
+}
+.align-content-start{
+    align-content: start;
+}
+.align-content-end{
+    align-content: end;
+}
+
+/* align items */
+
+.align-items-center{
+    align-items: center;
+}
+.align-items-left{
+    align-items: left;
+}
+.align-items-right{
+    align-items: right;
+}
+.align-items-start{
+    align-items: start;
+}
+.align-items-end{
+    align-items: end;
+}
+
+
 .hide{
     display: none;
 }
